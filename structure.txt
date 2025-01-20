@@ -1,0 +1,20 @@
+.
+├── 01_data
+│   ├── pwt1001.csv
+│   └── pwt1001.dta
+├── 02_codes
+│   ├── 01_stata.do
+│   └── python.ipynb
+├── 03_latex
+│   ├── 01_graphs
+│   │   ├── fig_1.5.png
+│   │   ├── fig_1.png
+│   │   ├── fig_2.png
+│   │   ├── fig_4.png
+│   │   └── fig_5.png
+│   └── 02_tables
+├── 04_docs
+├── README.md
+└── structure.txt
+
+7 directories, 11 files
