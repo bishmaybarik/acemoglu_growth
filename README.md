@@ -31,4 +31,3 @@ The data is also available in the `01_data` folder of my repository, in both .cs
 
 The results and the latest graphs can be found in the `01_graphs` folder. 
 
-This is a testing line. 
